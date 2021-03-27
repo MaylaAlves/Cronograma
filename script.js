@@ -1,4 +1,4 @@
-var operacao = prompt (" Digite 1 para primeira semana, 2 para segunda, 3 para terceira, 4 para quarta, 5 para quinta e 6 para sexta:")
+var operacao = prompt (" EM QUAL SEMANA DE ESTUDOS VOCÊ ESTA??? Digite 1 para primeira semana, 2 para segunda, 3 para terceira, 4 para quarta, 5 para quinta e 6 para sexta:")
 
     if(operacao ==1){
         document.write(
